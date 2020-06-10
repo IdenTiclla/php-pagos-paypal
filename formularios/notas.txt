@@ -1,0 +1,92 @@
+localhost:8080/clase08/formularios/frmproducto.php
+localhost:8080/phpmyadmin
+
+
+bg-white
+    <?php include("../css_cdn.php"); ?>
+
+ <?php include("incluir_menu_formularios.php"); ?>
+    
+    <?php include("../js_cdn.php"); ?>
+
+
+      <?php $producto->obtenercategoria(); ?>
+
+
+                <div class="row form-group">
+                        <label for="txticategoria" class="col-form-label col-md-4">Categoria del producto</label>
+                        <div class="col-md-8">
+                          
+                            <input type="text" name="txticategoria" value="<?php echo $categoria_id; ?>" id="txticategoria" class="form-control">
+                        </div>
+                    </div>
+
+//////////////////////////////////////////////////////////////////REgistro////
+
+
+Telefono Galaxy S9
+SAMSUNG
+Galaxy S9 + desbloqueado Smartphone
+2000
+100
+https://images-na.ssl-images-amazon.com/images/I/81wLkQ64HXL._AC_SX425_.jpg
+
+ROUTER 
+MIKROTIK
+3 Puertos Ethernet 10/100 2.4Ghz AP
+200
+10
+https://www.opirata.com/images/router-mikrotik-RB931-2nD-1.jpg
+
+Audífonos 
+SAMSUNG
+Bluetooth Inalámbricos 
+200
+16
+https://http2.mlstatic.com/audifonos-bluetooth-inalambricos-D_NQ_NP_614476-MCO31129851345_062019-F.jpg
+
+Reloj deportivo
+SAMSUNG
+Galaxy Fit E (Bluetooth - 240h de autonomía - A prueba de agua - Negro)
+700
+5
+https://www.worten.es/i/a96d6078e4f7ef698b70af5e84eed3f6e05d41e2.jpg
+
+
+
+
+Telefono 
+Huawei
+ P20 y P20Lite
+ 114
+ 12
+https://andro4all.com/files/2018/03/Huawei-P20-Lite-5-700x500.jpg
+
+
+Audifonos 
+Huawei 
+Sport Bluetooth Am61 Heanphones Originales
+60
+13
+https://http2.mlstatic.com/audifonos-huawei-sport-bluetooth-am61-heanphones-originales-D_NQ_NP_621420-MPE31255039531_062019-F.jpg
+
+
+
+
+
+
+Línea blanca
+REF ELECTROLUX 220 LTRS
+REF ELECTROLUX 220 LTRS ACERO 1PTA C/DISPENSER
+1000
+3
+Bs.2.479,00 
+https://www.tibo.bo/tiendasbolivia/media/product/9a7/heladera-electrolux-de-386-litros-17-pies-dw42x-0e9.png
+
+--comprador----
+sb-id5ef2231636@personal.example.com
+,^)Dhc0I
+
+--Vendedor----
+sb-tipab2169360@business.example.com
+3{WsE_L@
